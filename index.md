@@ -6,7 +6,7 @@ My name is [Aijaz Ansari][me] and I work at [Gogo Business Aviation][ba] in Broo
 
 One of the goals of MYPI is to "work to remove institutional barriers for youth of color to succeed." There is no single strategy that is guaranteed to work to serve our Black youth. Every one of us has different skills, and we should them to reach our goals. Mine happens to be teaching. This project is an effort to teach programming (coding) to youth in our communities. 
 
-# Where to go from here
+## Where to go from here
 
 - [An Executive Summary of the plan][summary]
 - [Contingencies][contingencies]
