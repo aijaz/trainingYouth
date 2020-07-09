@@ -1,22 +1,14 @@
-# Executive Summary
+# Curriculum
 
-- Each training program will be 16 weeks long. 
-- There will be one 4-hour long in-person session.
-    + While we're practicing social distancing for COVID-19 this will be replaced by either:
-        * a Zoom Video session, OR
-        * a series of videos made available via YouTube or Vimeo
-- There will be 'office hours' once or twice a week, during the evenings.
-- The program will be free to the students
-- The program will provide the students with a laptop computer that they can use for the duration of the program, and then keep for themselves after the program has completed. 
-- There will be a value assigned to each class. [Go here][value] for a discussion on why this is necessary.
-    + A value of $10/hr will be assigned to the training. 
-    + A value of $360 will be assigned to the laptop computer (this will most likely be a Chromebook)
-    + With 64 hours of training over the 16 weeks, the total value of the program will be $1,000. 
-- The program will approach corporate and individual sponsors to sponsor one or more students by donating $1,000 for each sponsored student.
-- The appropriate staff will have to pass [background checks][safety].
-- The privacy of the students' data will be [protected][privacy].
-- While the program is designed with Black youth in mind, the program will not deny enrollment to any student based on US federally protected characteristics (e.g. race, color, religion, etc.) or protected characteristics in the US states in which we operate (e.g. marital status, mental illness, etc.).
+This program will have the following classes:
 
+## 1. Programming Python
+
+The student will learn programming with Python. By the end of the 16 weeks the student will have created an engaging Space-Invaders-type game that they can play on their computer. Each student will be given a Chromebook, which they can keep after they complete the class. Cost for sponsorship: $1,000/student. 
+
+## 2. iPhone Development with Swift
+
+The student will learn programming with Swift. By the end of the 16 weeks the student will have created an engaging Space-Invaders-type game that they can play on their iPhone. Each student will be given a MacBook Air, which they can keep after they complete the class. iPhones will not be provided. If the student doesn't have an iPhone, they can still play this game on the iOS simulator on their computer. Cost for sponsorship: $1,640/student.
 
 
 [me]: https://aijaz.net/about/

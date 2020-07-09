@@ -1,21 +1,10 @@
-# Executive Summary
+# Why Assign a Dollar Value
 
-- Each training program will be 16 weeks long. 
-- There will be one 4-hour long in-person session.
-    + While we're practicing social distancing for COVID-19 this will be replaced by either:
-        * a Zoom Video session, OR
-        * a series of videos made available via YouTube or Vimeo
-- There will be 'office hours' once or twice a week, during the evenings.
-- The program will be free to the students
-- The program will provide the students with a laptop computer that they can use for the duration of the program, and then keep for themselves after the program has completed. 
-- There will be a value assigned to each class. [Go here][value] for a discussion on why this is necessary.
-    + A value of $10/hr will be assigned to the training. 
-    + A value of $360 will be assigned to the laptop computer (this will most likely be a Chromebook)
-    + With 64 hours of training over the 16 weeks, the total value of the program will be $1,000. 
-- The program will approach corporate and individual sponsors to sponsor one or more students by donating $1,000 for each sponsored student.
-- The appropriate staff will have to pass [background checks][safety].
-- The privacy of the students' data will be [protected][privacy].
-- While the program is designed with Black youth in mind, the program will not deny enrollment to any student based on US federally protected characteristics (e.g. race, color, religion, etc.) or protected characteristics in the US states in which we operate (e.g. marital status, mental illness, etc.).
+I've been a volunteering in one capacity or the other for the last 30 years. During that time I've learned that if we don't assign a value to a product or service, then that product or service is perceived as having no worth. A project such as this can only be successful if the students feel that they are getting something valuable. Something worth having. Lacking that, interest and attendance can wane if the class becomes difficult. 
+
+Another reason to assign a dollar value to each enrollment and look for sponsorships is that we want this project to be self-sufficient and viable in the long term. We want this to be in an organization's best interest to conduct these classes. To use a cliché, it's a win-win. For both, the students and the organization conducting the classes. Also, those laptops aren't free.
+
+Finally, another thing that I have noticed in the last three decades of volunteering is that even the best-intentioned volunteers are only human. They may start a project with a lot of enthusiasm, but not see it through to completion. There are often good reasons for that: They may get busy at work, or school. They may get married, or take on more responsibilities at home. When we pay our volunteers (even if it's only a token amount) we're communicating to them that "This is a committment." They're committing to putting in the effort to see this project to completion. Sixteen youth are relying on them. This is not something they do _when they have the time._ Once money changes hands---no matter how little---it gets serious. 
 
 
 
