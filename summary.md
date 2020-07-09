@@ -13,8 +13,22 @@
     + A value of $360 will be assigned to the laptop computer (this will most likely be a Chromebook)
     + With 64 hours of training over the 16 weeks, the total value of the program will be $1,000. 
 - The program will approach corporate and individual sponsors to sponsor one or more students by donating $1,000 for each sponsored student.
+- The appropriate staff will have to pass [background checks][safety].
+- The privacy of the students' data will be [protected][privacy].
 
 
 
+[me]: https://aijaz.net/about/
+[ba]: https://business.gogoair.com/
+[mypi]: https://mypi.org
+[value]: /trainingYouth/value
+[summary]: /trainingYouth/summary
+[contingencies]: /trainingYouth/contingencies
+[safety]: /trainingYouth/safety
+[privacy]: /trainingYouth/privacyy
+[scaling]: /trainingYouth/scaling
+[value]: /trainingYouth/value
+[curriculum]: /trainingYouth/curriculum
+[syllabi]: /trainingYouth/syllabi
 
-[value]: /value/
+
