@@ -8,7 +8,17 @@ One of the goals of MYPI is to "work to remove institutional barriers for youth 
 
 # Where to go from here
 
+- [An Executive Summary of the plan][summary]
+- [Contingencies][contingencies]
+- [Student Safety][safety]
+- [Data Privacy][privacy]
+- [Scaling the Program][scaling]
+- [Why assign a dollar value?][value]
+- [Curriculum][curriculum]
+- [Syllabi][syllabi]
+
 
 [me]: https://aijaz.net/about/
 [ba]: https://business.gogoair.com/
 [mypi]: https://mypi.org
+[summary]: /summary/
