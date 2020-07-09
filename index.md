@@ -21,4 +21,10 @@ One of the goals of MYPI is to "work to remove institutional barriers for youth 
 [me]: https://aijaz.net/about/
 [ba]: https://business.gogoair.com/
 [mypi]: https://mypi.org
-[summary]: /summary/
+[summary]: /trainingYouth/summary/
+[safety]: /trainingYouth/safety/
+[privacy]: /trainingYouth/privacyy/
+[scaling]: /trainingYouth/scaling/
+[value]: /trainingYouth/value/
+[curriculum]: /trainingYouth/curriculum/
+[syllabi]: /trainingYouth/syllabi/

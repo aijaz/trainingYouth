@@ -1,7 +1,3 @@
-layout: page
-title: "Executive Summary"
-permalink: /summary/
-
 # Training Youth Executive Summary
 
 - Each training program will be 16 weeks long. 
