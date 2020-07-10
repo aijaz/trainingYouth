@@ -20,8 +20,8 @@ I have conducted this sort of program three times in the past, in Chicago. The f
 - The program will provide the students with a laptop computer that they can use for the duration of the program, and then keep for themselves after the program has completed. 
 - There will be a value assigned to each class. [Go here](#value) for a discussion on why this is necessary.
     + A value of $10/hr will be assigned to the training. 
-    + A value of $360 will be assigned to the laptop computer (this will most likely be a Chromebook)
-    + With 64 hours of training over the 16 weeks, the total value of the program will be $1,000. 
+    + A value of $360 or $1,000 will be assigned to the laptop computer. Depending on the class, the computer will either be a low-end Chromebook or a MacBook Air. We will separately try to apply for grants to get manufacturers to donate these computers to lower the cost of sponsorship.
+    + With 64 hours of training over the 16 weeks, the total value of the program will be $1,000, or $1,640, depending on the computer.
 - We will actively try to get guest instructors to volunteer an hour or so of their time every so often. We will look for guest speakers of the same demographics as the students, to inspire them and give them a sense of representation.
 - The program will approach corporate and individual sponsors to sponsor one or more students by donating $1,000 for each sponsored student.
 - The appropriate staff will have to pass [background checks](#safety).
@@ -50,7 +50,7 @@ If a student doesn't have access to Internet Service at this speed, we would hav
 
 ## Inadequate Sponsorship
 
-While the cost of this program is [$1,000 per student](#value), the minimal cost is approximately $360 per student: the cost of a Chromebook. The table shows the minimal cost based on the number of students, and how many sponsored students we would need (at $1,000 per sponsorship) to meet those minimal costs:
+While the cost of this program is [$1,000 - $1,640 per student](#value), the minimal cost is approximately $360 per student: the cost of a Chromebook. The table shows the minimal cost based on the number of students, and how many sponsored students we would need (at $1,000 per sponsorship) to meet those minimal costs:
 
 | Number of Students | Minimal Cost | Number of Sponsorships Required to meet Minimal Cost |
 | ---: |     ---: | ---: |
@@ -70,6 +70,8 @@ While the cost of this program is [$1,000 per student](#value), the minimal cost
 |   14 |   $5,040 |    6 |
 |   15 |   $5,400 |    6 |
 |   16 |   $5,760 |    6 |
+
+A similar table can be generated for the MacBook Air.
 
 
 # <a name="safety"></a>Student Safety
@@ -156,7 +158,7 @@ If you're a student and would like to sign up for this program, or a parent who 
 
 Thank you.
 
-
+_Apple, the Apple logo, iPhone, and iPod touch are trademarks of Apple Inc., registered in the U.S. and other countries. iPad is a trademark of Apple Inc. App Store is a service mark of Apple Inc._
 
 [Zoom]: https://zoom.us
 [Hopin]: https://hopin.to
