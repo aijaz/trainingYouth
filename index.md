@@ -5,13 +5,13 @@ My name is [Aijaz Ansari][me] and I work at [Gogo Business Aviation][ba] in Broo
 
 One of the goals of MYPI is to "work to remove institutional barriers for youth of color to succeed." There is no single strategy that is guaranteed to work to serve our Black youth. Every one of us has different skills, and we should use them to reach our goals. Mine happens to be teaching. This project is an effort to teach programming (coding) to youth in our communities. 
 
-I have conducted this sort of program three times in the past, in Chicago. The first time was for young children, and the other two was for adults looking to learn new skills. In fact I got my job at Gogo through one of these programs---one of my students was a Gogo employee who told me about the job opening. In my experience, the program as [designed](#summary) is long enough to teach someone programming and have them complete with a tangible, working app or game. 
+I have conducted this sort of program three times in the past, in Chicago. The first time was for young children, and the other two was for adults looking to learn new skills. In fact I got my job at Gogo through one of these programs: one of my students was a Gogo employee who told me about the job opening. In my experience, the program as [designed](#summary) is long enough to teach someone programming and have them complete with a tangible, working app or game. 
 
 
 # <a name="summary"></a>Executive Summary
 
 - Each training program will be 16 weeks long. 
-- There will be one 4-hour long in-person session.
+- There will be one 4-hour long in-person session every week.
     + While we're practicing social distancing for COVID-19 this will be replaced by either:
         * a Zoom Video session, OR
         * a series of videos made available via YouTube or Vimeo
@@ -22,7 +22,7 @@ I have conducted this sort of program three times in the past, in Chicago. The f
     + A value of $10/hr will be assigned to the training. 
     + A value of $360 will be assigned to the laptop computer (this will most likely be a Chromebook)
     + With 64 hours of training over the 16 weeks, the total value of the program will be $1,000. 
-- We will actively try to get guest instructors to volunteer an hour or so of their time every so often. We will actively look for guest speakers of the same demographics as the students, to inspire them and give them a sense of representation.
+- We will actively try to get guest instructors to volunteer an hour or so of their time every so often. We will look for guest speakers of the same demographics as the students, to inspire them and give them a sense of representation.
 - The program will approach corporate and individual sponsors to sponsor one or more students by donating $1,000 for each sponsored student.
 - The appropriate staff will have to pass [background checks](#safety).
 - The privacy of the students' data will be [protected](#privacy).
@@ -50,7 +50,7 @@ If a student doesn't have access to Internet Service at this speed, we would hav
 
 ## Inadequate Sponsorship
 
-While the cost of this program is [$1,000 per student](#value), the minimal cost is approximately $360 per student---the cost of a Chromebook. The table shows the minimal cost based on the number of students, and how many sponsored students we would need (at $1,000 per sponsorship) to meet those minimal costs:
+While the cost of this program is [$1,000 per student](#value), the minimal cost is approximately $360 per student: the cost of a Chromebook. The table shows the minimal cost based on the number of students, and how many sponsored students we would need (at $1,000 per sponsorship) to meet those minimal costs:
 
 | Number of Students | Minimal Cost | Number of Sponsorships Required to meet Minimal Cost |
 | ---: |     ---: | ---: |
@@ -112,14 +112,14 @@ I've been a volunteering in one capacity or the other for the last 30 years. Dur
 
 Another reason to assign a dollar value to each enrollment and look for sponsorships is that we want this project to be self-sufficient and viable in the long term. We want this to be in an organization's best interest to conduct these classes. To use a cliché, it's a win-win. For both, the students and the organization conducting the classes. Also, those laptops aren't free.
 
-Finally, another thing that I have noticed in the last three decades of volunteering is that even the best-intentioned volunteers are only human. They may start a project with a lot of enthusiasm, but not see it through to completion. There are often good reasons for that: They may get busy at work, or school. They may get married, or take on more responsibilities at home. When we pay our volunteers (even if it's only a token amount) we're communicating to them that "This is a committment." They're committing to putting in the effort to see this project to completion. Sixteen youth are relying on them. This is not something they do _when they have the time._ Once money changes hands---no matter how little---it gets serious. 
+Finally, I have noticed in the last three decades of volunteering that even the best-intentioned volunteers are only human. They may start a project with a lot of enthusiasm, but not see it through to completion. There are often good reasons for that: They may get busy at work, or school. They may get married, or take on more responsibilities at home. When we pay our volunteers (even if it's only a token amount) we're communicating to them that "This is a committment." They're committing to putting in the effort to complete this project. Sixteen youth are relying on them. This is not merely something they do _when they have the time._ Once money changes hands---no matter how little---it gets serious. 
 
 
 # <a name="success"></a>The Definition of Success
 
 How do we measure success? If a student completes the program and leaves with an app that they made by themselves, that's clearly a successful outcome. But what about the student who comes to us in week three saying, "You know, I thought I would love coding. But I absolutely hate how dull this is, and I never want to do this again in my life." What about them?
 
-I would call that a successful outcome, as well. Better they learn than now, than after spending two years of misery in a CS program in college. Essentially, any outcome where the student attends regularly and is engaged with earnest is a successful outcome. 
+I would call that a successful outcome as well. Better they learn than now, than after spending two years of misery in a CS program in college. Essentially, any outcome where the student attends regularly and is engaged with earnest is a successful outcome. 
 
 
 # <a name="curriculum"></a>Curriculum
