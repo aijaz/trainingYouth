@@ -139,7 +139,7 @@ The student will learn programming with Swift. By the end of the 16 weeks the st
 
 # <a name="syllabus"></a>Syllabus
 
-The syllabus for each course is still being developed. This page will be updated when the syllabus is complete.
+The syllabus for the Python class is available [here](/pythonSyllabus). The syllabus for the iOS class will be added here when it is complete.
 
 
 # <a name="sponsors"></a>Partners and Sponsors
