@@ -36,7 +36,7 @@ These are the risks that I have identified that could cause some details of the 
 
 ## Social Distancing due to COVID-19
 
-Ideally, each class would be held in a room large enough to hold the instructor and all students. However, with social distancing being the norm for the forseeable future, the classes will have to be conducted online. Given that requirement, the best option would be to use [Zoom][], [Hopin][], or [Mmhmm][]. 
+Ideally, each class would be held in a room large enough to hold the instructor and all students. However, with social distancing being the norm for the foreseeable future, the classes will have to be conducted online. Given that requirement, the best option would be to use [Zoom][], [Hopin][], or [Mmhmm][]. 
 
 ## Lack of Reliable Internet Access for the Students
 
@@ -121,7 +121,7 @@ Finally, I have noticed in the last three decades of volunteering that even the 
 
 How do we measure success? If a student completes the program and leaves with an app that they made by themselves, that's clearly a successful outcome. But what about the student who comes to us in week three saying, "You know, I thought I would love coding. But I absolutely hate how dull this is, and I never want to do this again in my life." What about them?
 
-I would call that a successful outcome as well. Better they learn than now, than after spending two years of misery in a CS program in college. Essentially, any outcome where the student attends regularly and is engaged with earnest is a successful outcome. 
+I would call that a successful outcome as well. Better they learn that now, than after spending two years of misery in a CS program in college. Essentially, any outcome where the student attends regularly and is engaged with earnest is a successful outcome. 
 
 
 # <a name="curriculum"></a>Curriculum
